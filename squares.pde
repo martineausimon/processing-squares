@@ -1,5 +1,5 @@
-String audio_input = "/home/simon/Documents/GitHub/processing-squares/01 - En Calme Au Large.wav";
-String image_input = "/home/simon/Documents/GitHub/processing-squares/cover.png";
+String audio_input = "/path/to/audio/file.wav";
+String image_input = "/path/to/image/file.png";
 
 import ddf.minim.analysis.BeatDetect;
 import ddf.minim.*;
